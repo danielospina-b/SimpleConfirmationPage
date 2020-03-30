@@ -15,3 +15,11 @@
 .basic-drop-shadow {
     box-shadow: -8px -8px 16px rgba(255, 255, 255, 1), 8px 8px 16px rgba(0, 0, 0, 0.07);
 }
+
+.table-align-right {
+    text-align: right;
+}
+
+td {padding:10px;}
+
+tr:hover {background-color: #DCDCDC;}

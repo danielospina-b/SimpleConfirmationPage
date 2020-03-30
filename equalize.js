@@ -8,4 +8,5 @@ for (const [key, value] of params) {
     var cell2 = row.insertCell(1);
     cell1.innerHTML = key;
     cell2.innerHTML = value;
+    cell2.setAttribute("class", "table-align-right");
 }

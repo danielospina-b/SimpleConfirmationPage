@@ -20,6 +20,10 @@
     text-align: right;
 }
 
+.table {
+    width: 100%;
+}
+
 td {padding:10px;}
 
 tr:hover {background-color: #DCDCDC;}
